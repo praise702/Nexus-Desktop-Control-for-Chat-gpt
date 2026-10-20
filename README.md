@@ -1,0 +1,2 @@
+# Nexus-Desktop-Control-for-Chat-gpt
+Nexus is a desktop-control integration for ChatGPT, designed to connect AI-assisted conversations with real Windows desktop workflows. Launch applications, navigate websites, search files, and execute user-directed tasks with transparent feedback, action verification, and privacy-conscious configuration.
